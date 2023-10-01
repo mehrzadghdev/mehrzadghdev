@@ -428,6 +428,15 @@ footer .column > a:hover{
     footer{
         grid-template-columns: 1fr;
     }
+    header .content h1{
+        text-wrap: unset;
+    }
+    header .content h1 div:first-child {
+        text-wrap: unset;
+    }
+    header .content h1 div:last-child {
+        text-wrap: unset;
+    }
 }
 
 
