@@ -450,7 +450,7 @@ footer .column > a:hover{
     border-radius: 5px;
     width: 100%;
     border: none;
-    transition: all .6s ease;
+    transition: all .3s ease;
     outline: 1px solid transparent;
     margin-top: 5px;
     font-size: 1rem;
